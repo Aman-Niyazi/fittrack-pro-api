@@ -123,3 +123,6 @@ Contributions are welcome! Feel free to fork and improve.
 📜 License
 
 Apache 2.0 License
+## 📸 API Preview
+
+![Swagger UI](images/swagger.png)
